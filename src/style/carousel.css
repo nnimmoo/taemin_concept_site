@@ -1,0 +1,16 @@
+.carousel{
+    position: absolute;
+    left: 25vw;
+    top: 10vh;
+    width: 40vw;
+    height: 70vh;
+}
+
+.carousel h1{
+    font-family: Panchang;
+
+}
+
+.carousel p {
+    font-family: satoshi;
+}

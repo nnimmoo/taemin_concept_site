@@ -1,0 +1,116 @@
+{
+    "discography": [
+        {
+            "id": 0,
+            "name": "",
+            "release": "",
+            "images": [
+                "https://wallpaperaccess.com/full/1556608.jpg",
+                "https://wallpaperaccess.com/full/1556608.jpg"
+            ],
+            "info": "",
+            "link": ""
+
+        },
+
+        {
+            "id": 1,
+            "name": "ACE",
+            "release": "2014",
+            "images": [
+                "https://i.pinimg.com/originals/a2/42/7b/a2427b1c9bd0ba3cd11ad3773d3c2249.jpg",
+                "https://i.pinimg.com/originals/a1/1e/b9/a11eb93a9f74e7dc2049bdf79eac51f9.jpg",
+                "https://data.whicdn.com/images/159358355/original.jpg"
+            ],
+            "info": "On August 11, 2014, SM Entertainment announced Taemin would release an EP titled Ace on August 18.",
+            "link": "https://www.youtube.com/watch?v=UF8m2JIDjKU"
+        },
+        {
+            "id": 2,
+            "name": "Press It",
+            "release": "2016",
+            "images": [
+                "https://0.soompi.io/wp-content/uploads/2016/02/15022037/Taemin7.jpg?s=900x600&e=t",
+                "https://static.qobuz.com/images/covers/cb/i2/qsn4tiun0i2cb_600.jpg",
+                "https://pbs.twimg.com/media/Cb1K93fUMAADKj2.jpg"
+            ],
+            "info": "Press It was produced over the course of a year and a half. The title track, 'Press Your Number', was originally written by Bruno Mars, with composition by The Stereotypes. ",
+            "link": "https://www.youtube.com/watch?v=XsOGiTSZ_cg"
+        },
+        {
+            "id": 3,
+            "name": "MOVE",
+            "release": "2017",
+            "images": [
+                "https://pbs.twimg.com/media/DLtLGowUEAAf2bB?format=jpg&name=large",
+                "https://static.qobuz.com/images/covers/za/km/afxi463i0kmza_600.jpg",
+                "https://0.soompi.io/wp-content/uploads/2017/10/14082556/SHINee-Taemin.jpg"
+
+            ],
+            "info": "My aim was to find a middle ground, mixing both masculine and feminine movements into the choreography together.",
+            "link": "https://www.youtube.com/watch?v=rcEyUNeZqmY"
+        },
+        
+        {
+            "id": 4,
+            "name": "Taemin",
+            "release": "2018",
+            "images": [
+                "https://static.wikia.nocookie.net/kpop/images/6/6e/Taemin_Taemin_fanclub_edition_cover_art.png/revision/latest?cb=20190207225854",
+                "https://pbs.twimg.com/media/DtuBBEJVYAAMa3n.jpg",
+                "https://i.pinimg.com/736x/b4/9a/c1/b49ac1bf8393695e4ea5a3465cdfb5ed.jpg"
+            ],
+            "info": "Taemin is the self-titled third studio album and debut Japanese studio album.",
+            "link": "https://www.youtube.com/watch?v=D0OTv7ZUle4"
+        },
+        {
+            "id": 5,
+            "name": "Want",
+            "release": "2019",
+            "images": [
+               "https://images.genius.com/da13515dfa435f1762457343280e3eb0.1000x968x1.png",
+               "https://pbs.twimg.com/media/DyVCSQeUYAAmtrs.jpg:large",
+               "https://kpopping.com/documents/2c/0/1676/2_G7824_15h-1TS.jpeg?v=d8ba7"
+            ],
+            "info": "Taemin is the self-titled third studio album and debut Japanese studio album.",
+            "link": "https://www.youtube.com/watch?v=D0OTv7ZUle4"
+        },
+        {
+            "id": 6,
+            "name": "Never Gonna Dance Again",
+            "release": "2020",
+            "images": [
+                "https://img.kpopmap.com/960x0/2020/09/TaeMin-Never-Gonna-Dance-Again-Concept-Photo-20.jpg",
+                "https://kpopping.com/documents/a2/2/2731/EglsooDU0AUciqK.jpeg?v=5bff1",
+                "https://i.pinimg.com/originals/44/2c/19/442c19341ab02dd61dd8060794e890a1.jpg"
+            ],
+            "info": "Taemin is the self-titled third studio album and debut Japanese studio album.",
+            "link": "https://www.youtube.com/watch?v=D0OTv7ZUle4"
+        },
+        {
+            "id": 7,
+            "name": "Never Gonna Dance Again pt2",
+            "release": "2020",
+            "images": [
+               "https://0.soompi.io/wp-content/uploads/2020/10/01071007/shinee-taemin-1.jpeg",
+               "https://kpopping.com/documents/fe/4/2000/EllIvaMU8AE2YFR.jpeg?v=1fb1e",
+               "https://www.allkpop.com/upload/2020/11/content/032315/1604463319-1.jpeg"
+            ],
+            "info": "Taemin is the self-titled third studio album and debut Japanese studio album.",
+            "link": "https://www.youtube.com/watch?v=D0OTv7ZUle4"
+        },
+        {
+            "id": 8,
+            "name": "Advice",
+            "release": "2021",
+            "images": [
+                "https://pbs.twimg.com/media/E1KVND_VoAAKpqg?format=jpg&name=4096x4096",
+                "https://kpopping.com/documents/b1/3/TAEMIN-Advice-Concept-Teaser-Images-documents-4.jpeg?v=5092c",
+                "https://pbs.twimg.com/media/E1GG7C9VkAMm3r1.jpg:large"
+            ],
+            "info": "Taemin is the self-titled third studio album and debut Japanese studio album.",
+            "link": "https://www.youtube.com/watch?v=D0OTv7ZUle4"
+        }
+
+    ]
+}

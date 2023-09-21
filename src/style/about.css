@@ -1,0 +1,75 @@
+@font-face {
+    font-family: Panchang;
+    src: url(../assets/Panchang-Bold.otf);
+}
+
+@font-face {
+    font-family: satoshi;
+    src: url(../assets/Satoshi-Light.otf);
+}
+
+body {}
+
+.about_section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0;
+    font-family: satoshi;
+    font-weight: 800;
+    position: relative;
+    /* margin-top: 10vh; */
+    background-color: black;
+}
+
+.about_section:first-of-type {
+        margin-top: 20vh;
+
+}
+
+
+.about_section div {
+    border: 1.5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 33.3%;
+    width: 33.3%;
+    padding: 20px;
+    background-color: white;
+}
+
+.about_section div:first-of-type {
+    width: 66.6%;
+    font-size: 500%;
+    font-family: Panchang;
+    border-bottom-right-radius: 40px;
+
+}
+
+.about_section div:nth-of-type(2) {
+    border-bottom-left-radius: 40px;
+}
+
+.about_section div:nth-of-type(3) {
+    border-bottom-right-radius: 40px;
+}
+
+.about_section div:nth-of-type(4) {
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+.about_section div:nth-of-type(5) {
+    border-top-left-radius: 40px;
+}
+
+.about_section div:nth-of-type(6) {
+    border-top-right-radius: 40px;
+}
+
+.about_section div:nth-of-type(7) {
+    border-top-left-radius: 40px;
+}

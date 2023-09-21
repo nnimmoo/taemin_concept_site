@@ -1,0 +1,299 @@
+@font-face {
+    font-family: Panchang;
+    src: url(../assets/Panchang-Bold.otf);
+}
+
+@font-face {
+    font-family: satoshi;
+    src: url(../assets/Satoshi-Light.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #fff;
+}
+
+.navbar {
+    text-align: center;
+    color: #000;
+    font-family: satoshi;
+    text-transform: uppercase;
+    position: fixed;
+    top: -90px;
+    font-weight: 800;
+    width: 50%;
+    font-size: 4vh;
+    left: 25%;
+    flex-wrap: wrap;
+
+}
+
+
+.navbar a {
+    text-decoration: none;
+
+}
+
+.navbar a:hover {
+    color: #7eddff;
+
+}
+
+.mainbody {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.con {
+    width: 98vw;
+}
+
+#first {
+    height: 180vh;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 300px;
+}
+
+.block {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.b-1 {
+    background: url("../assets/imgs/home/img1.jpg") 50% 50% no-repeat;
+    background-size: cover;
+}
+
+.b-2 {
+    background: url("../assets/imgs/home/img2.jpg") 50% 50% no-repeat;
+    background-size: cover;
+}
+
+.b-3 {
+    background: url("../assets/imgs/home/img3.jpg") 50% 50% no-repeat;
+    background-size: cover;
+}
+
+.b-4 {
+    background: url("../assets/imgs/home/img4.jpg") 50% 50% no-repeat;
+    background-size: cover;
+}
+
+.b-5 {
+    background: url("../assets/imgs/home/img5.jpg") 50% 50% no-repeat;
+    background-size: cover;
+}
+
+.b-6 {
+    background: url("../assets/imgs/home/img6.jpg") 50% 50% no-repeat;
+    background-size: cover;
+}
+
+.b-7 {
+    background: url("../assets/imgs/home/img7.jpeg") 50% 50% no-repeat;
+    background-size: cover;
+}
+
+
+.overlay {
+    position: fixed;
+    width: 100%;
+    height: 50vh;
+    bottom: -11rem;
+    background: #fff;
+    overflow: hidden;
+}
+
+.title {
+    margin-top: 20rem;
+    position: absolute;
+    text-transform: uppercase;
+    font-family: Panchang;
+    font-size: 8vw;
+    color: #000;
+    overflow: hidden;
+}
+
+#title-one {
+    left: -15%;
+    top: 20%;
+    transform: rotate(-90deg);
+}
+
+#title-sec {
+    width: 50%;
+    transform: rotate(-270deg);
+    right: -12%;
+    top: 60%;
+    width: fit-content;
+}
+
+.title .letter {
+    display: inline-block;
+    line-height: 1em;
+}
+
+.btn-container {
+    z-index: 1000;
+    display: none;
+    position: fixed;
+    top: 30px;
+    right: 95%;
+    font-size: 3.5vw;
+}
+
+a {
+    cursor: pointer;
+    color: #000;
+}
+
+
+#second {
+    height: 300vh;
+}
+
+
+#second hr {
+    border-top: #000 solid 4px;
+    width: 110%;
+    z-index: -1;
+}
+
+
+#second .slide {
+    height: 100px;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.sec-Con-Header {
+    font-family: Panchang;
+    font-size: 4em;
+    height: 70%;
+    margin: 0px 0px 10px 0px;
+    animation: scroll 40s linear infinite;
+    width: calc(250px * 14);
+}
+
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(calc(-150px * 7))
+    }
+}
+
+
+
+
+
+#second .decor-recta {
+    background-color: #000;
+    position: relative;
+    left: 23.8vw;
+    top: -15%;
+    height: 650px;
+    width: 75vw;
+    margin: 0;
+    z-index: -1;
+}
+
+
+#second .decor-recta p {
+    font-family: satoshi;
+    color: #fff;
+    text-align: right;
+    margin-right: 10px;
+
+    position: relative;
+    top: 50px;
+    font-size: larger;
+}
+
+
+
+.popup {
+    width: fit-content;
+    overflow: hidden;
+}
+
+#I {
+    position: relative;
+    top: 7%;
+    left: 10%;
+
+}
+
+#I img {
+    width: 25vw;
+   
+}
+
+#II{
+    position: relative;
+    top: -25%;
+    left: 40%;
+    width: 55vw;
+}
+
+#II-img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.img-footer {
+    position: relative;
+    top: -30px;
+    height: 40px;
+    background-color: white;
+    color: #000;
+    font-family: Panchang;
+    font-size: 1.5vw;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+
+.img-footer p {
+    margin-top: 10px;
+}
+
+.pop-link {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    top: 8vw;
+    width: 100%;
+   
+}
+
+.pop-link img {
+    width: 10%;
+    margin: 20px;
+}
+
+.pop-link p{
+    font-family: satoshi;
+    text-transform: uppercase;
+}
