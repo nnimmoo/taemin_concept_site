@@ -12,3 +12,5 @@ You may also see any lint errors in the console.
 
 ### Deployment
 Deployed using Netlify: ```https://courageous-griffin-a5b122.netlify.app/```
+
+Not Finished yet
