@@ -1,4 +1,4 @@
-##TAEMIN CONCEPT SITE
+## TAEMIN CONCEPT SITE
 This is a simple website developed using React. The main idea behind this project is to exercise my skills and learn new things. It is purely for testing.
 Used React.js, javascript, GSAP3.
 
