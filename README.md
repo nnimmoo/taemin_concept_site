@@ -12,4 +12,3 @@ You may also see any lint errors in the console.
 
 ### Deployment
 Deployed using Netlify: ```https://courageous-griffin-a5b122.netlify.app/```
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
